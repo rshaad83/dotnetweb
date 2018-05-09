@@ -12,7 +12,7 @@ namespace demoweb.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Here is the contact information";
         }
     }
 }
